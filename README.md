@@ -10,7 +10,7 @@
 
 📖 **Documentation** – https://docs.frax.finance
 
-📲 **Telegram** – https://t.me/fraxfinance
+📲 **Telegram** – https://t.me/atolan1216
 </p>
 
 ## What is Frax?
